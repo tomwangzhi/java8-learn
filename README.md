@@ -1,7 +1,7 @@
 # java8-learn
 java8新增的特性学习
 参考：https://snailclimb.gitee.io/javaguide/#/docs/java/What's%20New%20in%20JDK8/Java8Tutorial?id=functions
-
+:memo:
 ### 1. 接口的默认方法
 
 > 指的是在接口中定义一个已经实现好的方法
